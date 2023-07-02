@@ -9,4 +9,5 @@
 Homestead.json
 Homestead.yaml
 npm-debug.log
+sqlite_testing_env_setup.txt
 yarn-error.log
